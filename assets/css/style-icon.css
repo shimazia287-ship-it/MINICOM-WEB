@@ -1,0 +1,4057 @@
+@font-face {
+    font-family: 'rbb-font';
+    src: url("../fonts/rbb-font.eot?wtsg35");
+    src: url("../fonts/rbb-font.eot?wtsg35#iefix") format("embedded-opentype"), url("../fonts/rbb-font.ttf?wtsg35") format("truetype"), url("../fonts/rbb-font.woff?wtsg35") format("woff"), url("../fonts/rbb-font.svg?wtsg35#rbb-font") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+/* line 13, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+[class^="rbb-icon-"],
+[class*=" rbb-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'rbb-font' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* line 28, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-tag-4:before {
+    content: "\eb55";
+}
+
+/* line 31, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-tag-3:before {
+    content: "\eb56";
+}
+
+/* line 34, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-tag-2:before {
+    content: "\eb57";
+}
+
+/* line 37, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-tag-1:before {
+    content: "\eb58";
+}
+
+/* line 40, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-5 .path1:before {
+    content: "\eb59";
+    color: black;
+    opacity: 0.982;
+}
+
+/* line 45, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-5 .path2:before {
+    content: "\eb5a";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.98;
+}
+
+/* line 51, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-5 .path3:before {
+    content: "\eb5b";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.972;
+}
+
+/* line 57, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-5 .path4:before {
+    content: "\eb5c";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.979;
+}
+
+/* line 63, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-5 .path5:before {
+    content: "\eb5d";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.973;
+}
+
+/* line 69, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-5 .path6:before {
+    content: "\eb5e";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.978;
+}
+
+/* line 75, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-5 .path7:before {
+    content: "\eb5f";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.975;
+}
+
+/* line 81, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-5 .path8:before {
+    content: "\eb60";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.978;
+}
+
+/* line 87, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-5 .path9:before {
+    content: "\eb61";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.976;
+}
+
+/* line 93, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-4 .path1:before {
+    content: "\eb62";
+    color: black;
+    opacity: 0.975;
+}
+
+/* line 98, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-4 .path2:before {
+    content: "\eb63";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.973;
+}
+
+/* line 104, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-4 .path3:before {
+    content: "\eb64";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.975;
+}
+
+/* line 110, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-4 .path4:before {
+    content: "\eb65";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.974;
+}
+
+/* line 116, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-4 .path5:before {
+    content: "\eb66";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.975;
+}
+
+/* line 122, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-4 .path6:before {
+    content: "\eb67";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.974;
+}
+
+/* line 128, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-4 .path7:before {
+    content: "\eb68";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.973;
+}
+
+/* line 134, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-4 .path8:before {
+    content: "\eb69";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.974;
+}
+
+/* line 140, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-4 .path9:before {
+    content: "\eb6a";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.975;
+}
+
+/* line 146, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-3 .path1:before {
+    content: "\eb6b";
+    color: black;
+    opacity: 0.981;
+}
+
+/* line 151, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-3 .path2:before {
+    content: "\eb6c";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.967;
+}
+
+/* line 157, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-3 .path3:before {
+    content: "\eb6d";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.967;
+}
+
+/* line 163, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-3 .path4:before {
+    content: "\eb6e";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.981;
+}
+
+/* line 169, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-3 .path5:before {
+    content: "\eb6f";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.981;
+}
+
+/* line 175, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-3 .path6:before {
+    content: "\eb70";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.967;
+}
+
+/* line 181, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-3 .path7:before {
+    content: "\eb71";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.967;
+}
+
+/* line 187, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-3 .path8:before {
+    content: "\eb72";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.981;
+}
+
+/* line 193, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-2 .path1:before {
+    content: "\eb73";
+    color: black;
+    opacity: 0.982;
+}
+
+/* line 198, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-2 .path2:before {
+    content: "\eb74";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.979;
+}
+
+/* line 204, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-2 .path3:before {
+    content: "\eb75";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.955;
+}
+
+/* line 210, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-2 .path4:before {
+    content: "\eb76";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.977;
+}
+
+/* line 216, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-2 .path5:before {
+    content: "\eb77";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.963;
+}
+
+/* line 222, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-2 .path6:before {
+    content: "\eb78";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.975;
+}
+
+/* line 228, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-2 .path7:before {
+    content: "\eb79";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.967;
+}
+
+/* line 234, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-2 .path8:before {
+    content: "\eb7a";
+    margin-left: -1em;
+    color: black;
+    opacity: 0.973;
+}
+
+/* line 240, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-1 .path1:before {
+    content: "\eb7b";
+    color: #4e5961;
+    opacity: 0.989;
+}
+
+/* line 245, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-1 .path2:before {
+    content: "\eb7c";
+    margin-left: -1em;
+    color: #5e6b74;
+    opacity: 0.99;
+}
+
+/* line 251, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-1 .path3:before {
+    content: "\eb7d";
+    margin-left: -1em;
+    color: #e9edf1;
+    opacity: 0.986;
+}
+
+/* line 257, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-1 .path4:before {
+    content: "\eb7e";
+    margin-left: -1em;
+    color: #dce6eb;
+    opacity: 0.985;
+}
+
+/* line 263, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-1 .path5:before {
+    content: "\eb7f";
+    margin-left: -1em;
+    color: #7d8b96;
+    opacity: 0.992;
+}
+
+/* line 269, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-1 .path6:before {
+    content: "\eb80";
+    margin-left: -1em;
+    color: #c8d2dc;
+    opacity: 0.989;
+}
+
+/* line 275, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-1 .path7:before {
+    content: "\eb81";
+    margin-left: -1em;
+    color: #909ba6;
+    opacity: 0.991;
+}
+
+/* line 281, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-1 .path8:before {
+    content: "\eb82";
+    margin-left: -1em;
+    color: #b9c3cd;
+    opacity: 0.986;
+}
+
+/* line 287, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-loading-1 .path9:before {
+    content: "\eb83";
+    margin-left: -1em;
+    color: #a2abb7;
+    opacity: 0.99;
+}
+
+/* line 293, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-filter-5:before {
+    content: "\eb84";
+}
+
+/* line 296, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-filter-4:before {
+    content: "\eb85";
+}
+
+/* line 299, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-filter-3:before {
+    content: "\eb86";
+}
+
+/* line 302, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-filter-2:before {
+    content: "\eb87";
+}
+
+/* line 305, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-filter-1:before {
+    content: "\eb88";
+}
+
+/* line 308, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-time-1:before {
+    content: "\eb23";
+}
+
+/* line 311, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-time-2:before {
+    content: "\eb24";
+}
+
+/* line 314, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-time-3:before {
+    content: "\eb25";
+}
+
+/* line 317, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-time-4:before {
+    content: "\eb26";
+}
+
+/* line 320, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-time-5:before {
+    content: "\eb27";
+}
+
+/* line 323, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-time-6:before {
+    content: "\eb28";
+}
+
+/* line 326, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-time-7:before {
+    content: "\eb29";
+}
+
+/* line 329, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-question-1:before {
+    content: "\eb2a";
+}
+
+/* line 332, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-question-2:before {
+    content: "\eb2b";
+}
+
+/* line 335, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-question-3:before {
+    content: "\eb2c";
+}
+
+/* line 338, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-question-4:before {
+    content: "\eb2d";
+}
+
+/* line 341, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-question-5:before {
+    content: "\eb2e";
+}
+
+/* line 344, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-phone-1:before {
+    content: "\eb2f";
+}
+
+/* line 347, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-phone-2:before {
+    content: "\eb30";
+}
+
+/* line 350, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-phone-3:before {
+    content: "\eb31";
+}
+
+/* line 353, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-phone-4:before {
+    content: "\eb32";
+}
+
+/* line 356, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-phone-5:before {
+    content: "\eb33";
+}
+
+/* line 359, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-1:before {
+    content: "\eb34";
+}
+
+/* line 362, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-2:before {
+    content: "\eb35";
+}
+
+/* line 365, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-3:before {
+    content: "\eb36";
+}
+
+/* line 368, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-4:before {
+    content: "\eb37";
+}
+
+/* line 371, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-5:before {
+    content: "\eb38";
+}
+
+/* line 374, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-6:before {
+    content: "\eb39";
+}
+
+/* line 377, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-7:before {
+    content: "\eb3a";
+}
+
+/* line 380, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-8:before {
+    content: "\eb3b";
+}
+
+/* line 383, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-9:before {
+    content: "\eb3c";
+}
+
+/* line 386, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-10:before {
+    content: "\eb3d";
+}
+
+/* line 389, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-11:before {
+    content: "\eb3e";
+}
+
+/* line 392, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-12:before {
+    content: "\eb3f";
+}
+
+/* line 395, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-menu-13:before {
+    content: "\eb40";
+}
+
+/* line 398, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-flash-1:before {
+    content: "\eb41";
+}
+
+/* line 401, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-flash-2:before {
+    content: "\eb42";
+}
+
+/* line 404, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-check-1:before {
+    content: "\eb43";
+}
+
+/* line 407, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-check-2:before {
+    content: "\eb44";
+}
+
+/* line 410, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-check-3:before {
+    content: "\eb45";
+}
+
+/* line 413, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-check-4:before {
+    content: "\eb46";
+}
+
+/* line 416, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-check-5:before {
+    content: "\eb47";
+}
+
+/* line 419, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-check-6:before {
+    content: "\eb48";
+}
+
+/* line 422, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-check-7:before {
+    content: "\eb49";
+}
+
+/* line 425, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-check-8:before {
+    content: "\eb4a";
+}
+
+/* line 428, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-check-9:before {
+    content: "\eb4b";
+}
+
+/* line 431, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-check-10:before {
+    content: "\eb4c";
+}
+
+/* line 434, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-check-11:before {
+    content: "\eb4d";
+}
+
+/* line 437, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-check-12:before {
+    content: "\eb4e";
+}
+
+/* line 440, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-rising-bamboo:before {
+    content: "\e900";
+}
+
+/* line 443, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-amazon-pay-1:before {
+    content: "\e901";
+}
+
+/* line 446, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-amazon-pay-2:before {
+    content: "\e902";
+}
+
+/* line 449, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-amazon-pay-3:before {
+    content: "\e903";
+}
+
+/* line 452, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-amazon-pay-4:before {
+    content: "\e904";
+}
+
+/* line 455, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-amazon-pay-5:before {
+    content: "\e905";
+}
+
+/* line 458, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-amazon-pay-6:before {
+    content: "\e906";
+}
+
+/* line 461, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-amazon-pay-7:before {
+    content: "\e907";
+}
+
+/* line 464, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-american-express-1:before {
+    content: "\e908";
+}
+
+/* line 467, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-american-express-2:before {
+    content: "\e909";
+}
+
+/* line 470, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-american-express-3:before {
+    content: "\e90a";
+}
+
+/* line 473, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-apple-pay-1:before {
+    content: "\e90b";
+}
+
+/* line 476, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-apple-pay-2:before {
+    content: "\e90c";
+}
+
+/* line 479, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-cirrus-1:before {
+    content: "\e90d";
+}
+
+/* line 482, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-cirrus-2:before {
+    content: "\e90e";
+}
+
+/* line 485, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-dicover-1:before {
+    content: "\e90f";
+}
+
+/* line 488, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-dicover-2:before {
+    content: "\e910";
+}
+
+/* line 491, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-dicover-3:before {
+    content: "\e911";
+}
+
+/* line 494, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-dicover-4:before {
+    content: "\e912";
+}
+
+/* line 497, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-dicover-5:before {
+    content: "\e913";
+}
+
+/* line 500, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-hsbc-1:before {
+    content: "\e914";
+}
+
+/* line 503, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-jcb-1:before {
+    content: "\e915";
+}
+
+/* line 506, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-jcb-2:before {
+    content: "\e916";
+}
+
+/* line 509, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-jcb-3:before {
+    content: "\e917";
+}
+
+/* line 512, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-jcb-4:before {
+    content: "\e918";
+}
+
+/* line 515, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-jcb-5:before {
+    content: "\e919";
+}
+
+/* line 518, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-mastercard-1:before {
+    content: "\e91a";
+}
+
+/* line 521, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-mastercard-2:before {
+    content: "\e91b";
+}
+
+/* line 524, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-mastercard-3:before {
+    content: "\e91c";
+}
+
+/* line 527, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-mastercard-4:before {
+    content: "\e91d";
+}
+
+/* line 530, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-mastercard-5:before {
+    content: "\e91e";
+}
+
+/* line 533, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-mastercard-6:before {
+    content: "\e91f";
+}
+
+/* line 536, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-mastercard-7:before {
+    content: "\e920";
+}
+
+/* line 539, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-payoneer-1:before {
+    content: "\e921";
+}
+
+/* line 542, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-payoneer-2:before {
+    content: "\e922";
+}
+
+/* line 545, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-paypal-1:before {
+    content: "\e923";
+}
+
+/* line 548, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-paypal-2:before {
+    content: "\e924";
+}
+
+/* line 551, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-paypal-3:before {
+    content: "\e925";
+}
+
+/* line 554, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-paypal-4:before {
+    content: "\e926";
+}
+
+/* line 557, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-paypal-5:before {
+    content: "\e927";
+}
+
+/* line 560, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-ripple-1:before {
+    content: "\e928";
+}
+
+/* line 563, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-ripple-2:before {
+    content: "\e929";
+}
+
+/* line 566, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-ripple-3:before {
+    content: "\e92a";
+}
+
+/* line 569, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-visa-1:before {
+    content: "\e92b";
+}
+
+/* line 572, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-visa-2:before {
+    content: "\e92c";
+}
+
+/* line 575, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-visa-3:before {
+    content: "\e92d";
+}
+
+/* line 578, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-visa-4:before {
+    content: "\e92e";
+}
+
+/* line 581, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-visa-5:before {
+    content: "\e92f";
+}
+
+/* line 584, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-visa-6:before {
+    content: "\e930";
+}
+
+/* line 587, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-brand-visa-7:before {
+    content: "\e931";
+}
+
+/* line 590, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-home-outline-1:before {
+    content: "\eaa5";
+}
+
+/* line 593, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-home-outline-2:before {
+    content: "\eaa6";
+}
+
+/* line 596, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-home-outline-5:before {
+    content: "\eaa7";
+}
+
+/* line 599, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-home-outline-3:before {
+    content: "\eaa8";
+}
+
+/* line 602, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-home-outline-4:before {
+    content: "\eaa9";
+}
+
+/* line 605, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-home-filled-1:before {
+    content: "\eaaa";
+}
+
+/* line 608, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-home-filled-2:before {
+    content: "\eaab";
+}
+
+/* line 611, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-home-filled-3:before {
+    content: "\eaac";
+}
+
+/* line 614, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-home-filled-5:before {
+    content: "\eaad";
+}
+
+/* line 617, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-home-filled-4:before {
+    content: "\eaae";
+}
+
+/* line 620, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-dashboard-filled-4:before {
+    content: "\eaaf";
+}
+
+/* line 623, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-dashboard-outline-3:before {
+    content: "\eab0";
+}
+
+/* line 626, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-dashboard-outline-1:before {
+    content: "\eab1";
+}
+
+/* line 629, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-dashboard-outline-2:before {
+    content: "\eab2";
+}
+
+/* line 632, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-dashboard-filled-5:before {
+    content: "\eab3";
+}
+
+/* line 635, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-dashboard-filled-3:before {
+    content: "\eab4";
+}
+
+/* line 638, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-dashboard-outline-4:before {
+    content: "\eab5";
+}
+
+/* line 641, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-dashboard-outline-5:before {
+    content: "\eab6";
+}
+
+/* line 644, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-dashboard-filled-1:before {
+    content: "\eab7";
+}
+
+/* line 647, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-dashboard-filled-2:before {
+    content: "\eab8";
+}
+
+/* line 650, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-view-list-2:before {
+    content: "\eb89";
+}
+
+/* line 653, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rbb-icon-view-grid-3:before {
+    content: "\eb8a";
+}
+
+/* line 656, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-view-grid-1:before {
+    content: "\e932";
+}
+
+/* line 659, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-view-grid-2:before {
+    content: "\e933";
+}
+
+/* line 662, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-view-list-1:before {
+    content: "\e934";
+}
+
+/* line 665, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-quickview-eye-1:before {
+    content: "\eaff";
+}
+
+/* line 668, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-quickview-eye-2:before {
+    content: "\eb00";
+}
+
+/* line 671, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-quickview-eye-3:before {
+    content: "\eb01";
+}
+
+/* line 674, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-quickview-eye-4:before {
+    content: "\eb02";
+}
+
+/* line 677, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-quickview-popup-1:before {
+    content: "\eb03";
+}
+
+/* line 680, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-quickview-popup-2:before {
+    content: "\eb04";
+}
+
+/* line 683, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-settings-outline3:before {
+    content: "\eab9";
+}
+
+/* line 686, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-settings-outline4:before {
+    content: "\eaba";
+}
+
+/* line 689, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-settings-outline5:before {
+    content: "\eabb";
+}
+
+/* line 692, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-settings-outline2:before {
+    content: "\eabc";
+}
+
+/* line 695, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-settings-outline6:before {
+    content: "\eabd";
+}
+
+/* line 698, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-settings-outline1:before {
+    content: "\eabe";
+}
+
+/* line 701, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-settings-filled-1:before {
+    content: "\eabf";
+}
+
+/* line 704, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-settings-filled-4:before {
+    content: "\eac0";
+}
+
+/* line 707, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-settings-filled-3:before {
+    content: "\eac1";
+}
+
+/* line 710, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-settings-filled-5:before {
+    content: "\eac2";
+}
+
+/* line 713, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-settings-filled-6:before {
+    content: "\eac3";
+}
+
+/* line 716, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-settings-filled-2:before {
+    content: "\eac4";
+}
+
+/* line 719, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-download-outline-3:before {
+    content: "\eac5";
+}
+
+/* line 722, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-download-outline-2:before {
+    content: "\eac6";
+}
+
+/* line 725, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-download-outline-5:before {
+    content: "\eac7";
+}
+
+/* line 728, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-download-outline-6:before {
+    content: "\eac8";
+}
+
+/* line 731, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-download-outline-1:before {
+    content: "\eac9";
+}
+
+/* line 734, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-download-outline-4:before {
+    content: "\eaca";
+}
+
+/* line 737, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-download-filled-4:before {
+    content: "\eacb";
+}
+
+/* line 740, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-download-filled-3:before {
+    content: "\eacc";
+}
+
+/* line 743, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-download-filled-2:before {
+    content: "\eacd";
+}
+
+/* line 746, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-download-filled-1:before {
+    content: "\eace";
+}
+
+/* line 749, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-calendar-1:before {
+    content: "\eb05";
+}
+
+/* line 752, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-calendar-2:before {
+    content: "\eb06";
+}
+
+/* line 755, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-calendar-3:before {
+    content: "\eb07";
+}
+
+/* line 758, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-team-1:before {
+    content: "\e935";
+}
+
+/* line 761, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-team-2:before {
+    content: "\e936";
+}
+
+/* line 764, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-team-3:before {
+    content: "\e937";
+}
+
+/* line 767, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-team-4:before {
+    content: "\e938";
+}
+
+/* line 770, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-team-5:before {
+    content: "\e939";
+}
+
+/* line 773, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-team-6:before {
+    content: "\e93a";
+}
+
+/* line 776, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-team-7:before {
+    content: "\e93b";
+}
+
+/* line 779, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-team-8:before {
+    content: "\e93c";
+}
+
+/* line 782, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-team-9:before {
+    content: "\e93d";
+}
+
+/* line 785, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-team-10:before {
+    content: "\e93e";
+}
+
+/* line 788, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-user-1:before {
+    content: "\e93f";
+}
+
+/* line 791, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-user-2:before {
+    content: "\e940";
+}
+
+/* line 794, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-user-3:before {
+    content: "\e941";
+}
+
+/* line 797, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-user-4:before {
+    content: "\e942";
+}
+
+/* line 800, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-user-5:before {
+    content: "\e943";
+}
+
+/* line 803, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-user-6:before {
+    content: "\e944";
+}
+
+/* line 806, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-user-7:before {
+    content: "\e945";
+}
+
+/* line 809, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-user-8:before {
+    content: "\e946";
+}
+
+/* line 812, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-user-9:before {
+    content: "\e947";
+}
+
+/* line 815, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-user-10:before {
+    content: "\e948";
+}
+
+/* line 818, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-human-user-11:before {
+    content: "\eb0d";
+}
+
+/* line 821, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-support-1:before {
+    content: "\e949";
+}
+
+/* line 824, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-support-2:before {
+    content: "\e94a";
+}
+
+/* line 827, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-support-3:before {
+    content: "\e94b";
+}
+
+/* line 830, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-support-4:before {
+    content: "\e94c";
+}
+
+/* line 833, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-support-5:before {
+    content: "\e94d";
+}
+
+/* line 836, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-support-6:before {
+    content: "\e94e";
+}
+
+/* line 839, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-support-7:before {
+    content: "\e94f";
+}
+
+/* line 842, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-support-8:before {
+    content: "\e950";
+}
+
+/* line 845, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-support-9:before {
+    content: "\e951";
+}
+
+/* line 848, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-support-10:before {
+    content: "\e952";
+}
+
+/* line 851, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-support-11:before {
+    content: "\e953";
+}
+
+/* line 854, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-support-12:before {
+    content: "\e954";
+}
+
+/* line 857, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-1:before {
+    content: "\e955";
+}
+
+/* line 860, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-2:before {
+    content: "\e956";
+}
+
+/* line 863, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-3:before {
+    content: "\e957";
+}
+
+/* line 866, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-4:before {
+    content: "\e958";
+}
+
+/* line 869, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-5:before {
+    content: "\e959";
+}
+
+/* line 872, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-6:before {
+    content: "\e95a";
+}
+
+/* line 875, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-8:before {
+    content: "\e95b";
+}
+
+/* line 878, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-9:before {
+    content: "\e95c";
+}
+
+/* line 881, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-10:before {
+    content: "\e95d";
+}
+
+/* line 884, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-11:before {
+    content: "\e95e";
+}
+
+/* line 887, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-14:before {
+    content: "\e95f";
+}
+
+/* line 890, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-15:before {
+    content: "\e960";
+}
+
+/* line 893, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-16:before {
+    content: "\e961";
+}
+
+/* line 896, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-17:before {
+    content: "\e962";
+}
+
+/* line 899, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-store-18:before {
+    content: "\e963";
+}
+
+/* line 902, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-basket-1:before {
+    content: "\e964";
+}
+
+/* line 905, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-basket-2:before {
+    content: "\e965";
+}
+
+/* line 908, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-basket-3:before {
+    content: "\e966";
+}
+
+/* line 911, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-basket-4:before {
+    content: "\e967";
+}
+
+/* line 914, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-basket-5:before {
+    content: "\e968";
+}
+
+/* line 917, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-basket-6:before {
+    content: "\e969";
+}
+
+/* line 920, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-basket-7:before {
+    content: "\e96a";
+}
+
+/* line 923, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-basket-8:before {
+    content: "\e96b";
+}
+
+/* line 926, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-basket-9:before {
+    content: "\e96c";
+}
+
+/* line 929, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-basket-10:before {
+    content: "\e96d";
+}
+
+/* line 932, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-1:before {
+    content: "\e96e";
+}
+
+/* line 935, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-2:before {
+    content: "\e96f";
+}
+
+/* line 938, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-3:before {
+    content: "\e970";
+}
+
+/* line 941, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-4:before {
+    content: "\e971";
+}
+
+/* line 944, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-5:before {
+    content: "\e972";
+}
+
+/* line 947, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-6:before {
+    content: "\e973";
+}
+
+/* line 950, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-7:before {
+    content: "\e974";
+}
+
+/* line 953, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-8:before {
+    content: "\e975";
+}
+
+/* line 956, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-9:before {
+    content: "\e976";
+}
+
+/* line 959, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-10:before {
+    content: "\e977";
+}
+
+/* line 962, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-11:before {
+    content: "\e978";
+}
+
+/* line 965, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-12:before {
+    content: "\e979";
+}
+
+/* line 968, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-13:before {
+    content: "\e97a";
+}
+
+/* line 971, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-14:before {
+    content: "\e97b";
+}
+
+/* line 974, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-cart-15:before {
+    content: "\e97c";
+}
+
+/* line 977, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-bag-1:before {
+    content: "\e97d";
+}
+
+/* line 980, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-bag-2:before {
+    content: "\e97e";
+}
+
+/* line 983, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-bag-3:before {
+    content: "\e97f";
+}
+
+/* line 986, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-bag-4:before {
+    content: "\e980";
+}
+
+/* line 989, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-bag-5:before {
+    content: "\e981";
+}
+
+/* line 992, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-bag-6:before {
+    content: "\e982";
+}
+
+/* line 995, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-bag-7:before {
+    content: "\e983";
+}
+
+/* line 998, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-bag-8:before {
+    content: "\e984";
+}
+
+/* line 1001, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-bag-9:before {
+    content: "\e985";
+}
+
+/* line 1004, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-bag-10:before {
+    content: "\e986";
+}
+
+/* line 1007, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-bag-11:before {
+    content: "\e987";
+}
+
+/* line 1010, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-shopping-bag-12:before {
+    content: "\e988";
+}
+
+/* line 1013, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-discount-filled-2:before {
+    content: "\eacf";
+}
+
+/* line 1016, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-discount-filled-1:before {
+    content: "\ead0";
+}
+
+/* line 1019, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-discount-filled-5:before {
+    content: "\ead1";
+}
+
+/* line 1022, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-discount-filled-4:before {
+    content: "\ead2";
+}
+
+/* line 1025, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-discount-filled-3:before {
+    content: "\ead3";
+}
+
+/* line 1028, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-discount-outline-1:before {
+    content: "\ead4";
+}
+
+/* line 1031, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-discount-outline-3:before {
+    content: "\ead5";
+}
+
+/* line 1034, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-discount-outline-4:before {
+    content: "\ead6";
+}
+
+/* line 1037, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-discount-outline-5:before {
+    content: "\ead7";
+}
+
+/* line 1040, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-discount-outline-2:before {
+    content: "\ead8";
+}
+
+/* line 1043, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-1:before {
+    content: "\e989";
+}
+
+/* line 1046, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-2:before {
+    content: "\e98a";
+}
+
+/* line 1049, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-3:before {
+    content: "\e98b";
+}
+
+/* line 1052, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-4:before {
+    content: "\e98c";
+}
+
+/* line 1055, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-5:before {
+    content: "\e98d";
+}
+
+/* line 1058, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-6:before {
+    content: "\e98e";
+}
+
+/* line 1061, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-7:before {
+    content: "\e98f";
+}
+
+/* line 1064, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-8:before {
+    content: "\e990";
+}
+
+/* line 1067, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-9:before {
+    content: "\e991";
+}
+
+/* line 1070, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-10:before {
+    content: "\e992";
+}
+
+/* line 1073, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-11:before {
+    content: "\e993";
+}
+
+/* line 1076, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-12:before {
+    content: "\e994";
+}
+
+/* line 1079, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-13:before {
+    content: "\e995";
+}
+
+/* line 1082, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-14:before {
+    content: "\e996";
+}
+
+/* line 1085, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-15:before {
+    content: "\e997";
+}
+
+/* line 1088, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-16:before {
+    content: "\e998";
+}
+
+/* line 1091, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-17:before {
+    content: "\e999";
+}
+
+/* line 1094, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-18:before {
+    content: "\e99a";
+}
+
+/* line 1097, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-19:before {
+    content: "\e99b";
+}
+
+/* line 1100, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-20:before {
+    content: "\e99c";
+}
+
+/* line 1103, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-21:before {
+    content: "\e99d";
+}
+
+/* line 1106, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delivery-22:before {
+    content: "\e99e";
+}
+
+/* line 1109, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-search-9:before {
+    content: "\eb4f";
+}
+
+/* line 1112, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-search-10:before {
+    content: "\eb50";
+}
+
+/* line 1115, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-search-1:before {
+    content: "\e99f";
+}
+
+/* line 1118, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-search-2:before {
+    content: "\e9a0";
+}
+
+/* line 1121, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-search-3:before {
+    content: "\e9a1";
+}
+
+/* line 1124, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-search-4:before {
+    content: "\e9a2";
+}
+
+/* line 1127, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-search-5:before {
+    content: "\e9a3";
+}
+
+/* line 1130, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-search-6:before {
+    content: "\e9a4";
+}
+
+/* line 1133, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-search-7:before {
+    content: "\e9a5";
+}
+
+/* line 1136, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-search-8:before {
+    content: "\e9a6";
+}
+
+/* line 1139, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-payment-1:before {
+    content: "\e9a7";
+}
+
+/* line 1142, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-payment-2:before {
+    content: "\e9a8";
+}
+
+/* line 1145, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-payment-3:before {
+    content: "\e9a9";
+}
+
+/* line 1148, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-payment-4:before {
+    content: "\e9aa";
+}
+
+/* line 1151, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-payment-5:before {
+    content: "\e9ab";
+}
+
+/* line 1154, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-payment-6:before {
+    content: "\e9ac";
+}
+
+/* line 1157, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-payment-7:before {
+    content: "\e9ad";
+}
+
+/* line 1160, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-payment-8:before {
+    content: "\e9ae";
+}
+
+/* line 1163, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-payment-9:before {
+    content: "\e9af";
+}
+
+/* line 1166, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-payment-10:before {
+    content: "\e9b0";
+}
+
+/* line 1169, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-payment-11:before {
+    content: "\e9b1";
+}
+
+/* line 1172, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-payment-12:before {
+    content: "\e9b2";
+}
+
+/* line 1175, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-password-1:before {
+    content: "\e9b3";
+}
+
+/* line 1178, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-password-2:before {
+    content: "\e9b4";
+}
+
+/* line 1181, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-password-3:before {
+    content: "\e9b5";
+}
+
+/* line 1184, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-password-4:before {
+    content: "\e9b6";
+}
+
+/* line 1187, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-password-5:before {
+    content: "\e9b7";
+}
+
+/* line 1190, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-password-6:before {
+    content: "\e9b8";
+}
+
+/* line 1193, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-password-7:before {
+    content: "\e9b9";
+}
+
+/* line 1196, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-password-8:before {
+    content: "\e9ba";
+}
+
+/* line 1199, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-password-9:before {
+    content: "\e9bb";
+}
+
+/* line 1202, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-password-10:before {
+    content: "\e9bc";
+}
+
+/* line 1205, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-1:before {
+    content: "\e9bd";
+}
+
+/* line 1208, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-2:before {
+    content: "\e9be";
+}
+
+/* line 1211, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-3:before {
+    content: "\e9bf";
+}
+
+/* line 1214, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-4:before {
+    content: "\e9c0";
+}
+
+/* line 1217, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-5:before {
+    content: "\e9c1";
+}
+
+/* line 1220, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-6:before {
+    content: "\e9c2";
+}
+
+/* line 1223, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-7:before {
+    content: "\e9c3";
+}
+
+/* line 1226, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-8:before {
+    content: "\e9c4";
+}
+
+/* line 1229, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-9:before {
+    content: "\e9c5";
+}
+
+/* line 1232, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-10:before {
+    content: "\e9c6";
+}
+
+/* line 1235, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-11:before {
+    content: "\e9c7";
+}
+
+/* line 1238, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-12:before {
+    content: "\e9c8";
+}
+
+/* line 1241, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-13:before {
+    content: "\e9c9";
+}
+
+/* line 1244, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-picture-14:before {
+    content: "\e9ca";
+}
+
+/* line 1247, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-14:before {
+    content: "\eb51";
+}
+
+/* line 1250, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-15:before {
+    content: "\eb52";
+}
+
+/* line 1253, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-16:before {
+    content: "\eb53";
+}
+
+/* line 1256, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-1:before {
+    content: "\e9cb";
+}
+
+/* line 1259, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-2:before {
+    content: "\e9cc";
+}
+
+/* line 1262, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-3:before {
+    content: "\e9cd";
+}
+
+/* line 1265, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-4:before {
+    content: "\e9ce";
+}
+
+/* line 1268, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-5:before {
+    content: "\e9cf";
+}
+
+/* line 1271, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-6:before {
+    content: "\e9d0";
+}
+
+/* line 1274, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-7:before {
+    content: "\e9d1";
+}
+
+/* line 1277, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-8:before {
+    content: "\e9d2";
+}
+
+/* line 1280, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-9:before {
+    content: "\e9d3";
+}
+
+/* line 1283, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-10:before {
+    content: "\e9d4";
+}
+
+/* line 1286, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-11:before {
+    content: "\ea91";
+}
+
+/* line 1289, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-12:before {
+    content: "\ea92";
+}
+
+/* line 1292, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-compare-13:before {
+    content: "\ea93";
+}
+
+/* line 1295, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-1:before {
+    content: "\e9d5";
+}
+
+/* line 1298, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-2:before {
+    content: "\e9d6";
+}
+
+/* line 1301, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-3:before {
+    content: "\e9d7";
+}
+
+/* line 1304, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-4:before {
+    content: "\e9d8";
+}
+
+/* line 1307, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-5:before {
+    content: "\e9d9";
+}
+
+/* line 1310, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-6:before {
+    content: "\e9da";
+}
+
+/* line 1313, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-7:before {
+    content: "\e9db";
+}
+
+/* line 1316, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-8:before {
+    content: "\e9dc";
+}
+
+/* line 1319, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-9:before {
+    content: "\e9dd";
+}
+
+/* line 1322, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-10:before {
+    content: "\e9de";
+}
+
+/* line 1325, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-11:before {
+    content: "\e9df";
+}
+
+/* line 1328, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-12:before {
+    content: "\e9e0";
+}
+
+/* line 1331, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-13:before {
+    content: "\e9e1";
+}
+
+/* line 1334, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-14:before {
+    content: "\e9e2";
+}
+
+/* line 1337, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-15:before {
+    content: "\e9e3";
+}
+
+/* line 1340, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-16:before {
+    content: "\e9e4";
+}
+
+/* line 1343, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-17:before {
+    content: "\e9e5";
+}
+
+/* line 1346, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-18:before {
+    content: "\e9e6";
+}
+
+/* line 1349, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-19:before {
+    content: "\e9e7";
+}
+
+/* line 1352, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-20:before {
+    content: "\e9e8";
+}
+
+/* line 1355, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-21:before {
+    content: "\e9e9";
+}
+
+/* line 1358, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-22:before {
+    content: "\e9ea";
+}
+
+/* line 1361, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-23:before {
+    content: "\e9eb";
+}
+
+/* line 1364, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-24:before {
+    content: "\e9ec";
+}
+
+/* line 1367, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-25:before {
+    content: "\e9ed";
+}
+
+/* line 1370, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-26:before {
+    content: "\e9ee";
+}
+
+/* line 1373, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-27:before {
+    content: "\e9ef";
+}
+
+/* line 1376, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-28:before {
+    content: "\e9f0";
+}
+
+/* line 1379, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-29:before {
+    content: "\e9f1";
+}
+
+/* line 1382, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-30:before {
+    content: "\e9f2";
+}
+
+/* line 1385, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-31:before {
+    content: "\e9f3";
+}
+
+/* line 1388, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-32:before {
+    content: "\e9f4";
+}
+
+/* line 1391, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-33:before {
+    content: "\e9f5";
+}
+
+/* line 1394, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-34:before {
+    content: "\e9f6";
+}
+
+/* line 1397, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-35:before {
+    content: "\e9f7";
+}
+
+/* line 1400, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-36:before {
+    content: "\e9f8";
+}
+
+/* line 1403, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-37:before {
+    content: "\e9f9";
+}
+
+/* line 1406, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-38:before {
+    content: "\e9fa";
+}
+
+/* line 1409, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-39:before {
+    content: "\e9fb";
+}
+
+/* line 1412, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-40:before {
+    content: "\e9fc";
+}
+
+/* line 1415, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-41:before {
+    content: "\e9fd";
+}
+
+/* line 1418, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-42:before {
+    content: "\e9fe";
+}
+
+/* line 1421, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-43:before {
+    content: "\e9ff";
+}
+
+/* line 1424, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-44:before {
+    content: "\ea00";
+}
+
+/* line 1427, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-45:before {
+    content: "\ea01";
+}
+
+/* line 1430, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-46:before {
+    content: "\ea02";
+}
+
+/* line 1433, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-47:before {
+    content: "\ea03";
+}
+
+/* line 1436, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-48:before {
+    content: "\ea04";
+}
+
+/* line 1439, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-49:before {
+    content: "\ea05";
+}
+
+/* line 1442, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-50:before {
+    content: "\ea06";
+}
+
+/* line 1445, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-51:before {
+    content: "\ea07";
+}
+
+/* line 1448, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-52:before {
+    content: "\ea08";
+}
+
+/* line 1451, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-53:before {
+    content: "\ea09";
+}
+
+/* line 1454, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-54:before {
+    content: "\ea0a";
+}
+
+/* line 1457, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-55:before {
+    content: "\ea0b";
+}
+
+/* line 1460, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-56:before {
+    content: "\ea0c";
+}
+
+/* line 1463, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-57:before {
+    content: "\ea0d";
+}
+
+/* line 1466, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-58:before {
+    content: "\ea0e";
+}
+
+/* line 1469, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-59:before {
+    content: "\ea0f";
+}
+
+/* line 1472, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-60:before {
+    content: "\ea10";
+}
+
+/* line 1475, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-61:before {
+    content: "\ea11";
+}
+
+/* line 1478, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-62:before {
+    content: "\ea12";
+}
+
+/* line 1481, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-63:before {
+    content: "\ea13";
+}
+
+/* line 1484, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-64:before {
+    content: "\ea14";
+}
+
+/* line 1487, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-65:before {
+    content: "\ea15";
+}
+
+/* line 1490, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-66:before {
+    content: "\ea16";
+}
+
+/* line 1493, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-67:before {
+    content: "\ea17";
+}
+
+/* line 1496, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-68:before {
+    content: "\ea18";
+}
+
+/* line 1499, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-69:before {
+    content: "\ea19";
+}
+
+/* line 1502, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-70:before {
+    content: "\ea1a";
+}
+
+/* line 1505, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-71:before {
+    content: "\eaf3";
+}
+
+/* line 1508, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-72:before {
+    content: "\eaf4";
+}
+
+/* line 1511, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-73:before {
+    content: "\eaf5";
+}
+
+/* line 1514, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-74:before {
+    content: "\eaf6";
+}
+
+/* line 1517, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-76:before {
+    content: "\eaf7";
+}
+
+/* line 1520, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-75:before {
+    content: "\eaf8";
+}
+
+/* line 1523, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-77:before {
+    content: "\eaf9";
+}
+
+/* line 1526, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-78:before {
+    content: "\eafa";
+}
+
+/* line 1529, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-79:before {
+    content: "\eafb";
+}
+
+/* line 1532, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-80:before {
+    content: "\eafc";
+}
+
+/* line 1535, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-81:before {
+    content: "\eafd";
+}
+
+/* line 1538, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-82:before {
+    content: "\eafe";
+}
+
+/* line 1541, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-711:before {
+    content: "\eb08";
+}
+
+/* line 1544, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-721:before {
+    content: "\eb09";
+}
+
+/* line 1547, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-731:before {
+    content: "\eb0a";
+}
+
+/* line 1550, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-741:before {
+    content: "\eb0b";
+}
+
+/* line 1553, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-direction-751:before {
+    content: "\eb0c";
+}
+
+/* line 1556, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-1:before {
+    content: "\ea1b";
+}
+
+/* line 1559, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-2:before {
+    content: "\ea1c";
+}
+
+/* line 1562, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-3:before {
+    content: "\ea1d";
+}
+
+/* line 1565, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-4:before {
+    content: "\ea1e";
+}
+
+/* line 1568, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-5:before {
+    content: "\ea1f";
+}
+
+/* line 1571, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-6:before {
+    content: "\ea20";
+}
+
+/* line 1574, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-7:before {
+    content: "\ea21";
+}
+
+/* line 1577, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-8:before {
+    content: "\ea22";
+}
+
+/* line 1580, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-9:before {
+    content: "\ea23";
+}
+
+/* line 1583, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-10:before {
+    content: "\ea24";
+}
+
+/* line 1586, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-11:before {
+    content: "\ea25";
+}
+
+/* line 1589, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-12:before {
+    content: "\ea26";
+}
+
+/* line 1592, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-13:before {
+    content: "\ea27";
+}
+
+/* line 1595, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-14:before {
+    content: "\ea28";
+}
+
+/* line 1598, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-15:before {
+    content: "\ea29";
+}
+
+/* line 1601, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-16:before {
+    content: "\ea2a";
+}
+
+/* line 1604, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-wishlist-17:before {
+    content: "\eb54";
+}
+
+/* line 1607, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-email-10:before {
+    content: "\eb0f";
+}
+
+/* line 1610, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-email-9:before {
+    content: "\eb10";
+}
+
+/* line 1613, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-email-8:before {
+    content: "\eb11";
+}
+
+/* line 1616, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-email-7:before {
+    content: "\eb12";
+}
+
+/* line 1619, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-email-6:before {
+    content: "\eb13";
+}
+
+/* line 1622, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-email-5:before {
+    content: "\eb14";
+}
+
+/* line 1625, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-email-4:before {
+    content: "\eb15";
+}
+
+/* line 1628, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-email-3:before {
+    content: "\eb16";
+}
+
+/* line 1631, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-email-2:before {
+    content: "\eb17";
+}
+
+/* line 1634, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-email-1:before {
+    content: "\eb0e";
+}
+
+/* line 1637, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-tumblr-6:before {
+    content: "\eb18";
+}
+
+/* line 1640, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-tumblr-5:before {
+    content: "\eb19";
+}
+
+/* line 1643, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-tumblr-4:before {
+    content: "\eb1a";
+}
+
+/* line 1646, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-tumblr-3:before {
+    content: "\eb1b";
+}
+
+/* line 1649, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-tumblr-2:before {
+    content: "\eb1c";
+}
+
+/* line 1652, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-tumblr-1:before {
+    content: "\eb1d";
+}
+
+/* line 1655, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-share-5:before {
+    content: "\eb1e";
+}
+
+/* line 1658, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-share-4:before {
+    content: "\eb1f";
+}
+
+/* line 1661, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-share-3:before {
+    content: "\eb20";
+}
+
+/* line 1664, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-share-2:before {
+    content: "\eb21";
+}
+
+/* line 1667, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-share-1:before {
+    content: "\eb22";
+}
+
+/* line 1670, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-facebook-1:before {
+    content: "\ea2b";
+}
+
+/* line 1673, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-facebook-2:before {
+    content: "\ea2c";
+}
+
+/* line 1676, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-facebook-3:before {
+    content: "\ea2d";
+}
+
+/* line 1679, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-facebook-4:before {
+    content: "\ea2e";
+}
+
+/* line 1682, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-facebook-5:before {
+    content: "\ea2f";
+}
+
+/* line 1685, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-facebook-6:before {
+    content: "\ea30";
+}
+
+/* line 1688, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-facebook-7:before {
+    content: "\ea31";
+}
+
+/* line 1691, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-facebook-8:before {
+    content: "\ea32";
+}
+
+/* line 1694, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-facebook-9:before {
+    content: "\ea33";
+}
+
+/* line 1697, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-facebook-10:before {
+    content: "\ea34";
+}
+
+/* line 1700, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-facebook-11:before {
+    content: "\ea35";
+}
+
+/* line 1703, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-facebook-12:before {
+    content: "\ea36";
+}
+
+/* line 1706, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-instagram-1:before {
+    content: "\ea37";
+}
+
+/* line 1709, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-instagram-2:before {
+    content: "\ea38";
+}
+
+/* line 1712, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-instagram-3:before {
+    content: "\ea39";
+}
+
+/* line 1715, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-instagram-4:before {
+    content: "\ea3a";
+}
+
+/* line 1718, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-instagram-5:before {
+    content: "\ea3b";
+}
+
+/* line 1721, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-instagram-6:before {
+    content: "\ea3c";
+}
+
+/* line 1724, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-instagram-7:before {
+    content: "\ea3d";
+}
+
+/* line 1727, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-instagram-8:before {
+    content: "\ea3e";
+}
+
+/* line 1730, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-instagram-9:before {
+    content: "\ea3f";
+}
+
+/* line 1733, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-instagram-10:before {
+    content: "\ea40";
+}
+
+/* line 1736, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-pinterest-1:before {
+    content: "\ea41";
+}
+
+/* line 1739, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-pinterest-2:before {
+    content: "\ea42";
+}
+
+/* line 1742, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-pinterest-3:before {
+    content: "\ea43";
+}
+
+/* line 1745, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-pinterest-4:before {
+    content: "\ea44";
+}
+
+/* line 1748, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-pinterest-5:before {
+    content: "\ea45";
+}
+
+/* line 1751, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-pinterest-6:before {
+    content: "\ea46";
+}
+
+/* line 1754, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-pinterest-7:before {
+    content: "\ea47";
+}
+
+/* line 1757, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-pinterest-8:before {
+    content: "\ea48";
+}
+
+/* line 1760, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-pinterest-9:before {
+    content: "\ea49";
+}
+
+/* line 1763, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-tiktok-1:before {
+    content: "\ea4a";
+}
+
+/* line 1766, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-tiktok-2:before {
+    content: "\ea4b";
+}
+
+/* line 1769, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-tiktok-3:before {
+    content: "\ea4c";
+}
+
+/* line 1772, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-tiktok-4:before {
+    content: "\ea4d";
+}
+
+/* line 1775, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-tiktok-5:before {
+    content: "\ea4e";
+}
+
+/* line 1778, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-tiktok-6:before {
+    content: "\ea4f";
+}
+
+/* line 1781, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-twitter-1:before {
+    content: "\ea50";
+}
+
+/* line 1784, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-twitter-2:before {
+    content: "\ea51";
+}
+
+/* line 1787, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-twitter-3:before {
+    content: "\ea52";
+}
+
+/* line 1790, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-twitter-4:before {
+    content: "\ea53";
+}
+
+/* line 1793, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-twitter-5:before {
+    content: "\ea54";
+}
+
+/* line 1796, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-twitter-6:before {
+    content: "\ea55";
+}
+
+/* line 1799, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-twitter-7:before {
+    content: "\ea56";
+}
+
+/* line 1802, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-vimeo-1:before {
+    content: "\ea57";
+}
+
+/* line 1805, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-vimeo-2:before {
+    content: "\ea58";
+}
+
+/* line 1808, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-vimeo-3:before {
+    content: "\ea59";
+}
+
+/* line 1811, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-vimeo-4:before {
+    content: "\ea5a";
+}
+
+/* line 1814, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-vimeo-5:before {
+    content: "\ea5b";
+}
+
+/* line 1817, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-vimeo-6:before {
+    content: "\ea5c";
+}
+
+/* line 1820, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-youtube-1:before {
+    content: "\ea5d";
+}
+
+/* line 1823, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-youtube-2:before {
+    content: "\ea5e";
+}
+
+/* line 1826, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-youtube-3:before {
+    content: "\ea5f";
+}
+
+/* line 1829, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-youtube-4:before {
+    content: "\ea60";
+}
+
+/* line 1832, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-youtube-5:before {
+    content: "\ea61";
+}
+
+/* line 1835, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-social-youtube-6:before {
+    content: "\ea62";
+}
+
+/* line 1838, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delete-outline-2:before {
+    content: "\ead9";
+}
+
+/* line 1841, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delete-outline-3:before {
+    content: "\eada";
+}
+
+/* line 1844, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delete-outline-5:before {
+    content: "\eadb";
+}
+
+/* line 1847, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delete-outline-4:before {
+    content: "\eadc";
+}
+
+/* line 1850, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delete-outline-1:before {
+    content: "\eadd";
+}
+
+/* line 1853, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delete-filled-2:before {
+    content: "\eade";
+}
+
+/* line 1856, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delete-filled-1:before {
+    content: "\eadf";
+}
+
+/* line 1859, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delete-filled-5:before {
+    content: "\eae0";
+}
+
+/* line 1862, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delete-filled-3:before {
+    content: "\eae1";
+}
+
+/* line 1865, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-delete-filled-4:before {
+    content: "\eae2";
+}
+
+/* line 1868, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-human-1:before {
+    content: "\ea63";
+}
+
+/* line 1871, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-human-2:before {
+    content: "\ea64";
+}
+
+/* line 1874, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-human-3:before {
+    content: "\ea65";
+}
+
+/* line 1877, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-human-4:before {
+    content: "\ea66";
+}
+
+/* line 1880, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-human-5:before {
+    content: "\ea67";
+}
+
+/* line 1883, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-pencil-1:before {
+    content: "\ea68";
+}
+
+/* line 1886, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-pencil-2:before {
+    content: "\ea69";
+}
+
+/* line 1889, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-pencil-3:before {
+    content: "\ea6a";
+}
+
+/* line 1892, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-pencil-4:before {
+    content: "\ea6b";
+}
+
+/* line 1895, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-pencil-5:before {
+    content: "\ea6c";
+}
+
+/* line 1898, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-pencil-6:before {
+    content: "\ea6d";
+}
+
+/* line 1901, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-pencil-7:before {
+    content: "\ea6e";
+}
+
+/* line 1904, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-pencil-8:before {
+    content: "\ea6f";
+}
+
+/* line 1907, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-edit-pencil-9:before {
+    content: "\ea70";
+}
+
+/* line 1910, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-power-1:before {
+    content: "\ea71";
+}
+
+/* line 1913, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-power-2:before {
+    content: "\ea72";
+}
+
+/* line 1916, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-power-3:before {
+    content: "\ea73";
+}
+
+/* line 1919, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-power-4:before {
+    content: "\ea74";
+}
+
+/* line 1922, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-power-5:before {
+    content: "\ea75";
+}
+
+/* line 1925, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-power-6:before {
+    content: "\ea76";
+}
+
+/* line 1928, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-power-7:before {
+    content: "\ea77";
+}
+
+/* line 1931, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-power-8:before {
+    content: "\ea78";
+}
+
+/* line 1934, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-power-9:before {
+    content: "\ea79";
+}
+
+/* line 1937, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-power-10:before {
+    content: "\ea7a";
+}
+
+/* line 1940, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-power-11:before {
+    content: "\ea7b";
+}
+
+/* line 1943, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-power-12:before {
+    content: "\ea7c";
+}
+
+/* line 1946, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-login-1:before {
+    content: "\ea7d";
+}
+
+/* line 1949, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-login-2:before {
+    content: "\ea7e";
+}
+
+/* line 1952, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-login-3:before {
+    content: "\ea7f";
+}
+
+/* line 1955, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-login-4:before {
+    content: "\ea80";
+}
+
+/* line 1958, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-login-5:before {
+    content: "\ea81";
+}
+
+/* line 1961, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-login-6:before {
+    content: "\ea82";
+}
+
+/* line 1964, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-login-7:before {
+    content: "\ea83";
+}
+
+/* line 1967, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-login-8:before {
+    content: "\ea84";
+}
+
+/* line 1970, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-login-9:before {
+    content: "\ea85";
+}
+
+/* line 1973, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-login-10:before {
+    content: "\ea86";
+}
+
+/* line 1976, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-logout-1:before {
+    content: "\ea87";
+}
+
+/* line 1979, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-logout-2:before {
+    content: "\ea88";
+}
+
+/* line 1982, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-logout-3:before {
+    content: "\ea89";
+}
+
+/* line 1985, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-logout-4:before {
+    content: "\ea8a";
+}
+
+/* line 1988, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-logout-5:before {
+    content: "\ea8b";
+}
+
+/* line 1991, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-logout-6:before {
+    content: "\ea8c";
+}
+
+/* line 1994, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-logout-7:before {
+    content: "\ea8d";
+}
+
+/* line 1997, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-logout-8:before {
+    content: "\ea8e";
+}
+
+/* line 2000, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-logout-9:before {
+    content: "\ea8f";
+}
+
+/* line 2003, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-account-logout-10:before {
+    content: "\ea90";
+}
+
+/* line 2006, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-badge-1:before {
+    content: "\ea94";
+}
+
+/* line 2009, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-badge-2:before {
+    content: "\ea95";
+}
+
+/* line 2012, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-badge-3:before {
+    content: "\ea96";
+}
+
+/* line 2015, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-badge-4:before {
+    content: "\ea97";
+}
+
+/* line 2018, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-badge-5:before {
+    content: "\ea98";
+}
+
+/* line 2021, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-filled-1:before {
+    content: "\ea99";
+}
+
+/* line 2024, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-filled-2:before {
+    content: "\ea9a";
+}
+
+/* line 2027, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-filled-3:before {
+    content: "\ea9b";
+}
+
+/* line 2030, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-filled-4:before {
+    content: "\ea9c";
+}
+
+/* line 2033, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-outline-1:before {
+    content: "\ea9d";
+}
+
+/* line 2036, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-outline-2:before {
+    content: "\ea9e";
+}
+
+/* line 2039, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-outline-3:before {
+    content: "\ea9f";
+}
+
+/* line 2042, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-outline-4:before {
+    content: "\eaa0";
+}
+
+/* line 2045, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-outline-5:before {
+    content: "\eaa1";
+}
+
+/* line 2048, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-outline-6:before {
+    content: "\eaa2";
+}
+
+/* line 2051, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-outline-7:before {
+    content: "\eaa3";
+}
+
+/* line 2054, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-rating-start-outline-8:before {
+    content: "\eaa4";
+}
+
+/* line 2057, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-filled-6:before {
+    content: "\eae3";
+}
+
+/* line 2060, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-filled-4:before {
+    content: "\eae4";
+}
+
+/* line 2063, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-outline-7:before {
+    content: "\eae5";
+}
+
+/* line 2066, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-outline-5:before {
+    content: "\eae6";
+}
+
+/* line 2069, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-outline-6:before {
+    content: "\eae7";
+}
+
+/* line 2072, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-filled-5:before {
+    content: "\eae8";
+}
+
+/* line 2075, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-filled-7:before {
+    content: "\eae9";
+}
+
+/* line 2078, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-outline-8:before {
+    content: "\eaea";
+}
+
+/* line 2081, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-filled-8:before {
+    content: "\eaeb";
+}
+
+/* line 2084, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-filled-2:before {
+    content: "\eaec";
+}
+
+/* line 2087, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-filled-3:before {
+    content: "\eaed";
+}
+
+/* line 2090, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-filled-1:before {
+    content: "\eaee";
+}
+
+/* line 2093, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-outline-2:before {
+    content: "\eaef";
+}
+
+/* line 2096, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-outline-4:before {
+    content: "\eaf0";
+}
+
+/* line 2099, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-outline-1:before {
+    content: "\eaf1";
+}
+
+/* line 2102, C:/xampp/htdocs/landingpage/botanica/assets/scss/style-icon.scss */
+
+.rbb-icon-notification-outline-3:before {
+    content: "\eaf2";
+}
+
+/*# sourceMappingURL=../css/style-icon.map */
